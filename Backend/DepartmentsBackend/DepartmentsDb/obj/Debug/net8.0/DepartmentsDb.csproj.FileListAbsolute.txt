@@ -1,0 +1,14 @@
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\bin\Debug\net8.0\DepartmentsDb.deps.json
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\bin\Debug\net8.0\DepartmentsDb.runtimeconfig.json
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\bin\Debug\net8.0\DepartmentsDb.dll
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\bin\Debug\net8.0\DepartmentsDb.pdb
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\DepartmentsDb.csproj.AssemblyReference.cache
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\DepartmentsDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\DepartmentsDb.AssemblyInfoInputs.cache
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\DepartmentsDb.AssemblyInfo.cs
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\DepartmentsDb.csproj.CoreCompileInputs.cache
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\DepartmentsDb.dll
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\refint\DepartmentsDb.dll
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\DepartmentsDb.pdb
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\DepartmentsDb.genruntimeconfig.cache
+C:\Users\jonas\OneDrive\Dokumente\4b\pos\170_PlfÜbungSvelte\Backend\DepartmentsBackend\DepartmentsDb\obj\Debug\net8.0\ref\DepartmentsDb.dll

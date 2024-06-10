@@ -1,0 +1,26 @@
+@baseUrl = http://localhost:5001
+
+
+################################################## departments
+GET {{baseUrl}}/departments
+#####
+GET {{baseUrl}}/departments/1
+#####
+GET {{baseUrl}}/departments/1/employees
+#####
+
+################################################## employees
+DELETE {{baseUrl}}/employees/1
+#####
+GET {{baseUrl}}/employees
+#####
+
+################################################## skills
+GET {{baseUrl}}/skills
+#####
+GET {{baseUrl}}/skills/1/employees
+#####
+
+################################################## Values
+GET {{baseUrl}}/Values/Skills
+#####
